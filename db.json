@@ -55,28 +55,5 @@
       "values": [71, 29],
       "colors": ["#74855B", "#D9D9D9"]
     }
-  ],
-  "chart4": [
-    {
-      "id": "chartMultipledDoughnoutCompanyPerson",
-      "labelLegend": ["", "Pessoas"],
-      "values": [24, 76],
-      "colors": ["#D9D9D9", "#74855B"]
-    },
-    {
-      "id": "chartMultipledDoughnoutCompanyScience",
-      "labelLegend": ["Ciência da Inovação", ""],
-      "values": [61, 39],
-      "colors": ["#EEA716", "#D9D9D9"]
-    },
-    {
-      "id": "chartMultipledDoughnoutCompanyInnovation",
-      "textMiddle": "72",
-      "subtitleMiddle": "",
-      "colorTexts": "black",
-      "labelLegend": ["Innova Power", ""],
-      "values": [72, 28],
-      "colors": ["#74855B", "#D9D9D9"]
-    }
   ]
 }
